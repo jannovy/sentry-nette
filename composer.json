@@ -1,5 +1,6 @@
 {
     "version": "1.0.0",
+    "license": "MIT",
     "name": "jannovy/sentry-nette",
     "description": "Sentry extension for Nette framework",
     "require": {

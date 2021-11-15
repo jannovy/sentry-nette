@@ -1,6 +1,13 @@
 Sentry extension for Nette framework
 =================
 
+Instalation
+------------
+
+Install extension with composer
+
+	composer require jannovy/sentry-nette
+
 Configuration
 ------------
 

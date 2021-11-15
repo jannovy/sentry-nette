@@ -1,4 +1,6 @@
 {
+    "name": "jannovy/sentry-nette",
+    "description": "Sentry extension for Nette framework",
     "require": {
         "php": "^7.2",
         "sentry/sdk": "^3.1"
